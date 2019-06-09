@@ -1,4 +1,4 @@
-package com.example.sqlfite_starter;
+package in.co.ongc.connect;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
